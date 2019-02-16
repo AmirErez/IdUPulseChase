@@ -8,3 +8,7 @@ Code for the manuscript
 * Code/ - MATLAB code for processing data and making figures
 * Data/ - raw Cytof data, gated and exported in csv format
 * Data/SupplementaryInfo.pdf - Gating strategy
+
+The MIFlowCyt-compliant .fcs files can be downloaded from
+https://flowrepository.org/experiments/2015
+
