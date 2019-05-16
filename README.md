@@ -10,5 +10,5 @@ Code for the manuscript
 * Data/SupplementaryInfo.pdf - Gating strategy
 
 The MIFlowCyt-compliant .fcs files can be downloaded from
-https://flowrepository.org/experiments/2015
+https://flowrepository.org/id/FR-FCM-ZYUV
 
